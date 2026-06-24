@@ -1,0 +1,12 @@
+{
+  "name": "cbc-rubric-gen-009-2025",
+  "version": "1.0.0",
+  "description": "Kenyan CBC assessment rubric generator for teachers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
